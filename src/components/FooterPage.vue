@@ -69,7 +69,7 @@ li {
 a {
     text-decoration: none;
     color: #fff;
-    padding: 15px;
+    padding: 10px;
     border-radius: 10px;
 }
 .social-media img {
